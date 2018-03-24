@@ -1,9 +1,12 @@
 # ML-Intro-2018
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Introduction to Machine Learning
 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Use Cases
 
 ## 1) CheXNet
@@ -14,6 +17,7 @@
 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Machine Learning at IBM
 
 [Open Source Machine Learning technologies at IBM:](https://www.ibm.com/cloud/machine-learning)
@@ -25,4 +29,5 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 (https://youtu.be/MfH6T6J1_Jo)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # The Science behind ML
