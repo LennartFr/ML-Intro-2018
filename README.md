@@ -14,7 +14,10 @@
 
 [Open Source Machine Learning technologies at IBM:](https://www.ibm.com/cloud/machine-learning)
 Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jump-start your R experience with a free, open-source RStudio tool. Scale on demand with Apache Spark and create while you learn.
-
 (https://www.ibm.com/cloud/machine-learning)
+
+[IBM Watson Studio](https://www.ibm.com/cloud/watson-studio)
+
+(https://youtu.be/MfH6T6J1_Jo)
 
 # The Science behind ML
