@@ -1,6 +1,8 @@
 # ML-Intro-2018
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # Introduction to Machine Learning
+
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # Use Cases
 
@@ -9,8 +11,9 @@
 <img src="http://med.stanford.edu/news/all-news/2017/11/algorithm-can-diagnose-pneumonia-better-than-radiologists/_jcr_content/main/image.img.620.high.jpg">
 
 [Stanford researchers have developed a deep-learning algorithm that evaluates chest X-rays for signs of disease.](http://med.stanford.edu/news/all-news/2017/11/algorithm-can-diagnose-pneumonia-better-than-radiologists.html)
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # Machine Learning at IBM
 
 [Open Source Machine Learning technologies at IBM:](https://www.ibm.com/cloud/machine-learning)
