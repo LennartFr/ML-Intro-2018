@@ -26,6 +26,9 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 
 [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio)
 
+
+[https://dataplatform.ibm.com/home?context=analytics](Watson Studio)
+
 (https://youtu.be/MfH6T6J1_Jo)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
@@ -34,5 +37,11 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 # Developer Patterns
 
 [https://developer.ibm.com/code/patterns/generate-restaurant-reviews-with-deep-learning/](Use a notebook, Keras, and TensorFlow to build a language model for text generation)
+[https://developer.ibm.com/code/patterns/deploy-a-core-ml-model-with-watson-visual-recognition/](Deploy a Core ML model with Watson Visual Recognition)
 
 # The Science behind ML
+
+
+
+
+
