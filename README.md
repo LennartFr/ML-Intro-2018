@@ -37,6 +37,7 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 # Developer Patterns
 
 [https://developer.ibm.com/code/patterns/generate-restaurant-reviews-with-deep-learning/](Use a notebook, Keras, and TensorFlow to build a language model for text generation)
+
 [https://developer.ibm.com/code/patterns/deploy-a-core-ml-model-with-watson-visual-recognition/](Deploy a Core ML model with Watson Visual Recognition)
 
 # The Science behind ML
