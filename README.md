@@ -29,8 +29,10 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 
 ## Watson Knowledge Studio
 
-[Watson Knowledge Studio Tutorial](Watson Studio)
-[https://console.bluemix.net/docs/services/knowledge-studio/tutorials-create-project.html#wks_tutintro(https://console.bluemix.net/docs/services/knowledge-studio/documents-for-annotation.html#documents-for-annotation)
+[Watson Knowledge Studio Tutorial]
+(https://console.bluemix.net/docs/services/knowledge-studio/tutorials-create-project.html#wks_tutintro)
+
+(https://console.bluemix.net/docs/services/knowledge-studio/documents-for-annotation.html#documents-for-annotation)
 
 (https://youtu.be/MfH6T6J1_Jo)
 
