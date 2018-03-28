@@ -25,10 +25,12 @@
 Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jump-start your R experience with a free, open-source RStudio tool. Scale on demand with Apache Spark and create while you learn.
 (https://www.ibm.com/cloud/machine-learning)
 
-[IBM Watson Studio](https://www.ibm.com/cloud/watson-studio)
+## [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio)
 
+## Watson Knowledge Studio
 
-[https://dataplatform.ibm.com/home?context=analytics](Watson Studio)
+[Watson Knowledge Studio Tutorial](Watson Studio)
+[https://console.bluemix.net/docs/services/knowledge-studio/tutorials-create-project.html#wks_tutintro(https://console.bluemix.net/docs/services/knowledge-studio/documents-for-annotation.html#documents-for-annotation)
 
 (https://youtu.be/MfH6T6J1_Jo)
 
