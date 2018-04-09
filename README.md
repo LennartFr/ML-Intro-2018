@@ -28,6 +28,7 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 (https://www.ibm.com/cloud/machine-learning)
 
 ## [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio)
+## [Watson Studio in the IBM Cloud](https://console.bluemix.net/catalog/services/watson-studio)
 
 ## Watson Knowledge Studio
 
