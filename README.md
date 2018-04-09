@@ -8,6 +8,8 @@ http://ibm.biz/mlatibm
 
 [A Simple Way to Understand Machine Learning vs Deep Learning](https://www.zendesk.com/blog/machine-learning-and-deep-learning/)
 
+[Watsonn Machine Learning](https://developer.ibm.com/ai/)
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Use Cases
