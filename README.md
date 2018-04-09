@@ -41,6 +41,8 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 
 (https://youtu.be/MfH6T6J1_Jo)
 
+[Watson Visual Recognition](https://www.ibm.com/watson/services/visual-recognition/demo/index.html#watson-demo)
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 
