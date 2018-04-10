@@ -55,6 +55,11 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 # The Science behind ML
 
 
+# Code Patterns
+
+1. [Analyze SMS messages with Watson Knowledge Studio](https://developer.ibm.com/code/patterns/analyze-sms-messages-with-watson-knowledge-studio/)
+1. [Get customer insights from product reviews](https://developer.ibm.com/code/patterns/get-customer-insights-from-product-reviews/)
+
 
 
 
