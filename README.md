@@ -57,8 +57,13 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 
 # Code Patterns
 
-1. [Analyze SMS messages with Watson Knowledge Studio](https://developer.ibm.com/code/patterns/analyze-sms-messages-with-watson-knowledge-studio/)
-1. [Get customer insights from product reviews](https://developer.ibm.com/code/patterns/get-customer-insights-from-product-reviews/)
+1. [Analyze SMS messages with Watson Knowledge Studio] (https://developer.ibm.com/code/patterns/analyze-sms-messages-with-watson-knowledge-studio/)
+1. [Get customer insights from product reviews] (https://developer.ibm.com/code/patterns/get-customer-insights-from-product-reviews/)
+
+1. [Create a Node.js web app built on Watson Discovery and Watson Knowledge Studio to understand customer feedback](  
+        (https://developer.ibm.com/code/patterns/get-customer-insights-from-product-reviews/)
+1. [https://developer.ibm.com/code/patterns/generate-restaurant-reviews-with-deep-learning/] (https://developer.ibm.com/code/patterns/generate-restaurant-reviews-with-deep-learning/)
+1. [Install and consume a deep learning platform on Kubernetes with TensorFlow, Caffe, PyTorch, and more] (https://developer.ibm.com/code/patterns/deploy-and-use-a-multi-framework-deep-learning-platform-on-kubernetes/)
 
 
 
