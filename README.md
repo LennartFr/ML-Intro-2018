@@ -68,4 +68,10 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 
 1. [Install and consume a deep learning platform on Kubernetes with TensorFlow, Caffe, PyTorch, and more](https://developer.ibm.com/code/patterns/deploy-and-use-a-multi-framework-deep-learning-platform-on-kubernetes/)
 
-1 [Classify images offline with Watson Visual Recognition and Core ML](https://developer.ibm.com/code/patterns/deploy-a-core-ml-model-with-watson-visual-recognition/)
+1. [Classify images offline with Watson Visual Recognition and Core ML](https://developer.ibm.com/code/patterns/deploy-a-core-ml-model-with-watson-visual-recognition/)
+
+1. (Classyfying art using TensorFlow) [https://developer.ibm.com/code/patterns/classify-art-using-tensorflow-model]
+
+1.
+
+1.
