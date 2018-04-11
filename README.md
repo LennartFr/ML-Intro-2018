@@ -61,7 +61,7 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 
 1. [Get customer insights from product reviews](https://developer.ibm.com/code/patterns/get-customer-insights-from-product-reviews/)
 
-1. [Create a Node.js web app built on Watson Discovery and Watson Knowledge Studio to understand customer feedback] (https://developer.ibm.com/code/patterns/get-customer-insights-from-product-reviews/)
+1. [Create a Node.js web app built on Watson Discovery and Watson Knowledge Studio to understand customer feedback](https://developer.ibm.com/code/patterns/get-customer-insights-from-product-reviews/)
         
 1. [Use a notebook, Keras, and TensorFlow to build a language model for text generation](https://developer.ibm.com/code/patterns/generate-restaurant-reviews-with-deep-learning/)
 
