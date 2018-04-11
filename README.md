@@ -70,7 +70,7 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 
 1. [Classify images offline with Watson Visual Recognition and Core ML](https://developer.ibm.com/code/patterns/deploy-a-core-ml-model-with-watson-visual-recognition/)
 
-1. (Classyfying art using TensorFlow) [https://developer.ibm.com/code/patterns/classify-art-using-tensorflow-model]
+1. (Classyfying art using TensorFlow)[https://developer.ibm.com/code/patterns/classify-art-using-tensorflow-model]
 
 1.
 
