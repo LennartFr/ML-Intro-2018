@@ -71,6 +71,3 @@ Use the same Jupyter notebooks you know and love, with Python, R, and Scala. Jum
 
 1. [Classyfying art using TensorFlow](https://developer.ibm.com/code/patterns/classify-art-using-tensorflow-model)
 
-1.
-
-1.
